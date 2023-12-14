@@ -1,8 +1,8 @@
 # Description :
 
--> This repository contains code and resources for predicting customer churn in a business.
-   Customer churn refers to the phenomenon where customers discontinue their relationship with a company.
-   Predicting churn can be valuable for businesses to take proactive measures to retain customers and enhance customer satisfaction.
+This repository contains code and resources for predicting customer churn in a business. 
+Customer churn refers to the phenomenon where customers discontinue their relationship with a company. 
+Predicting churn can be valuable for businesses to take proactive measures to retain customers and enhance customer satisfaction.
 
      
 
@@ -17,4 +17,4 @@ Age Group                :     Ordinal attribute (1: younger age, 5: older age)
 Tariff Plan              :     Binary (1: Pay as you go, 2: contractual)
 Status                   :     Binary (1: active, 2: non-active)
 Churn                    :     Binary (1: churn, 0: non-churn) - Class label
-Customer Value           :      The calculated value of customer
+Customer Value           :     The calculated value of customer
